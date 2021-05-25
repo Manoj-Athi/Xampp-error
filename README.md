@@ -7,4 +7,5 @@ The above error is shown in xampp this is due to the big sur update
 Excute the shell script code in terminal to over the error
 
 To execute the shell script file run the below command
-```sh shell.sh```
+
+### ```sh shell.sh```
