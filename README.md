@@ -8,4 +8,4 @@ Excute the shell script code in terminal to over the error
 
 To execute the shell script file run the below command
 
-### ```sh shell.sh```
+### ```sh ShellScript.sh```
